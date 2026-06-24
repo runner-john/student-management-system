@@ -22,3 +22,8 @@ deepseek_key.txt
 # OS
 .DS_Store
 Thumbs.db
+
+# Report files (private)
+实验报告_*.md
+实验报告_*.docx
+桂林学院*.doc

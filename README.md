@@ -155,8 +155,6 @@ python student_manage_system.py
 ```
 student-management-system/
 ├── student_manage_system.py        # 主程序（~6500 行）
-├── 实验报告_学生管理信息系统.md       # 完整实验报告（Markdown）
-├── 实验报告_学生管理信息系统_AI版.docx # 实验报告（Word）
 ├── generate_paper.py               # 论文生成辅助脚本
 ├── icon.svg / icon.ico             # 应用图标
 ├── .gitignore                      # Git 排除规则
