@@ -200,6 +200,4 @@ MIT License — 详见 [LICENSE](LICENSE)
 
 **Made with ❤️ by [runner-john](https://github.com/runner-john)**
 
-*桂林学院 · 物联网工程专业 · QT应用开发（Python）课程项目*
-
 </div>
