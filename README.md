@@ -155,11 +155,9 @@ python student_manage_system.py
 ```
 student-management-system/
 ├── student_manage_system.py        # 主程序（~6500 行）
-├── generate_paper.py               # 论文生成辅助脚本
 ├── icon.svg / icon.ico             # 应用图标
 ├── .gitignore                      # Git 排除规则
-├── README.md                       # 本文件
-└── MQTT/                           # MQTT 辅助模块
+└── README.md                       # 本文件
 ```
 
 ---
